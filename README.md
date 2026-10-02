@@ -2,7 +2,9 @@
 Trabalho de clínica veterinária do Técnico em Informática, segundo semestre de 2026.
 
 
-## Diagrama UML
+## Diagramas UML
+
+### Diagrama de caso de uso
 
 ```mermaid
 flowchart TD
@@ -22,3 +24,5 @@ flowchart TD
 
     vinho -. "estende" .-> comida
 ```
+
+### Diagrama de classe
